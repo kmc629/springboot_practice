@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-04T15:05:44" hostname="DESKTOP-1HVVGS6" time="0.039">
+  <properties/>
+  <testcase name="1 + 2는 3이다" classname="JUnitTest" time="0.039"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
